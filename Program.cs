@@ -31,7 +31,7 @@ namespace MethodsOverloading
             string x = "merhaba";
             string y = "dünya";
 
-            mt.EkranaYazdir(a,b);
+            mt.EkranaYazdir(x , y);
         }
     }
 
