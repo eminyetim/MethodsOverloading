@@ -1,0 +1,15 @@
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\MethodsOverloading\bin\Debug\net6.0\MethodsOverloading.exe
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\MethodsOverloading\bin\Debug\net6.0\MethodsOverloading.deps.json
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\MethodsOverloading\bin\Debug\net6.0\MethodsOverloading.runtimeconfig.json
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\MethodsOverloading\bin\Debug\net6.0\MethodsOverloading.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\MethodsOverloading\bin\Debug\net6.0\MethodsOverloading.pdb
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\MethodsOverloading\obj\Debug\net6.0\MethodsOverloading.csproj.AssemblyReference.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\MethodsOverloading\obj\Debug\net6.0\MethodsOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\MethodsOverloading\obj\Debug\net6.0\MethodsOverloading.AssemblyInfoInputs.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\MethodsOverloading\obj\Debug\net6.0\MethodsOverloading.AssemblyInfo.cs
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\MethodsOverloading\obj\Debug\net6.0\MethodsOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\MethodsOverloading\obj\Debug\net6.0\MethodsOverloading.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\MethodsOverloading\obj\Debug\net6.0\refint\MethodsOverloading.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\MethodsOverloading\obj\Debug\net6.0\MethodsOverloading.pdb
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\MethodsOverloading\obj\Debug\net6.0\MethodsOverloading.genruntimeconfig.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\MethodsOverloading\obj\Debug\net6.0\ref\MethodsOverloading.dll
